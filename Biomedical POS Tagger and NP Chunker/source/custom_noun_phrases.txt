@@ -1,0 +1,84 @@
+Phrase0:
+therapeutic antibodies 
+jj - nns - 
+Phrase1:
+instrumental in 
+jj - nn - 
+Phrase2:
+the treatment 
+dt - nn - 
+Phrase3:
+certain disease 
+jj - nn - 
+Phrase4:
+their 
+prp$ - 
+Phrase5:
+many efforts 
+jj - nns - 
+Phrase6:
+the approaches 
+dt - nns - 
+Phrase7:
+this field 
+dt - nn - 
+Phrase8:
+we 
+prp - 
+Phrase9:
+these antibodies 
+dt - nns - 
+Phrase10:
+the tumor 
+dt - nn - 
+Phrase11:
+this review 
+dt - nn - 
+Phrase12:
+an update 
+dt - nn - 
+Phrase13:
+the ph-responsive 
+dt - nn - 
+Phrase14:
+chimeric antigen 
+jj - nn - 
+Phrase15:
+the brain 
+dt - nn - 
+Phrase16:
+the blood–brain 
+dt - nn - 
+Phrase17:
+the ph-responsive 
+dt - nn - 
+Phrase18:
+strong treatment 
+jj - nn - 
+Phrase19:
+they 
+prp - 
+Phrase20:
+biologic drugs 
+jj - nns - 
+Phrase21:
+biological space 
+jj - nn - 
+Phrase22:
+they 
+prp - 
+Phrase23:
+valuable in 
+jj - nn - 
+Phrase24:
+improved spatial persistence 
+jj - jj - nn - 
+Phrase25:
+we 
+prp - 
+Phrase26:
+the programmable 
+dt - nn - 
+Phrase27:
+powerful tools 
+jj - nns - 
