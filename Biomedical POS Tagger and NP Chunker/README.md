@@ -1,6 +1,7 @@
 # HMM POS Tagger & Noun Phrases Extractor
 ------------------------------------------
 You can run the script via cmd/anaconda_prompt or an IDE like Spyder.
+
 To run via cmd: "python path_to_file/nlp.py"
 ------------------------------------------
 Guide:
